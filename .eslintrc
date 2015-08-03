@@ -1,0 +1,10 @@
+{
+  "env": {
+    "node": true,
+  },
+  "rules": {
+    "quotes": [2, "single"],
+    "curly": [0],
+    "handle-callback-err": [0]
+  }
+}
