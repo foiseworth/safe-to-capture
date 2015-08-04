@@ -10,8 +10,8 @@ Typically these will be links you wish to handle within the router.
 
 A link is safe to capture if it:
 * is not external
-* it is not a hash link to the current page
-* it has a href
+* is not a hash link to the current page
+* has a href
 
 ## To use
 ```javascript
