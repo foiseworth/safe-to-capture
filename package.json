@@ -38,6 +38,6 @@
     "mocha": "^2.2.5"
   },
   "dependencies": {
-    "external-link": "^1.0.0"
+    "external-link": "^2.0.0"
   }
 }
