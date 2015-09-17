@@ -1,6 +1,6 @@
 {
   "name": "safe-to-capture",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Check whether a link dom node is safe to capture by a single page app.",
   "main": "index.js",
   "scripts": {
